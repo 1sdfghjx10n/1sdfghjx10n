@@ -4,9 +4,9 @@
 **1sdfghjx10n/1sdfghjx10n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 🌱 UWA International student
-💻 Computer Science Student
-🤔 Looking to improve my codes and learn new languages
-⏰ Practice 24/7
+💻 Computer Science Student <br>
+🤔 Looking to improve my codes and learn new languages <br>
+⏰ Practice 24/7 <br>
 📫 jxinyeo5@gmail.com
 
 
