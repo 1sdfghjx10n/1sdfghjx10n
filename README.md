@@ -3,7 +3,7 @@
 <!--
 **1sdfghjx10n/1sdfghjx10n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-🌱 University of Western Australia International student
+🌱 University of Western Australia International student <br>
 💻 Computer Science Student 💻 <br>
 🤔 Looking to improve my codes and learn new languages <br>
 ⏰ Practice 24/7 <br>
